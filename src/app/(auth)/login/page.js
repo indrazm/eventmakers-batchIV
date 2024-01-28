@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>Login UI</div>;
+  return <div>Login UI Example</div>;
 }
